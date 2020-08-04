@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c01d0923-0e00-4bec-8938-9a7dbc2f7b23" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/personalprojects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/personalprojects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_project/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_project/blog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_project/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/django_project/db.sqlite3" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="d04175e9-4856-4d28-96e3-42ed8828abcb" />
+  <component name="ProjectId" id="1fU5iMcu1BszMUwLIeNpq2SAHOZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c01d0923-0e00-4bec-8938-9a7dbc2f7b23" name="Default Changelist" comment="" />
+      <created>1596259957088</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596259957088</updated>
+      <workItem from="1596516081656" duration="580000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="839" y="424" key="#Custom_Plugin_Repositories" timestamp="1596262918036">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="839" y="424" key="#Custom_Plugin_Repositories/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1596262918036" />
+    <state x="586" y="203" key="#Inspections" timestamp="1596262509100">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="586" y="203" key="#Inspections/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1596262509100" />
+    <state x="698" y="349" key="#Notifications" timestamp="1596262881646">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="698" y="349" key="#Notifications/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1596262881646" />
+    <state x="552" y="166" key="#Plugins" timestamp="1596263464520">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="166" key="#Plugins/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1596263464520" />
+    <state x="414" y="180" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596512104492">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="180" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1596512104492" />
+    <state x="709" y="361" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1596511710733">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="709" y="361" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1596511710733" />
+    <state x="730" y="393" width="638" height="517" key="FileChooserDialogImpl" timestamp="1596516191385">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="730" y="393" width="638" height="517" key="FileChooserDialogImpl/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1596516191385" />
+    <state x="461" y="170" key="SettingsEditor" timestamp="1596516196855">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="170" key="SettingsEditor/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1596516196855" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1596263394160">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1596263394160" />
+  </component>
+</project>
